@@ -73,6 +73,7 @@ Pod::Spec.new do |s|
   # 可选：指定架构
   s.pod_target_xcconfig = {
     "VALID_ARCHS" => "arm64",
+    "SWIFT_VERSION" => "6.0",
   }
   # s.dependency 'AFNetworking', '~> 2.3'
 end
