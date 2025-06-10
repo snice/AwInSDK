@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AWSDKDemo
+
+  Created by admin on 2022/1/10.
+  
+*/
+"NSUserTrackingUsageDescription" = "Your data will be used to show you personalized ads.";
+"NSPhotoLibraryUsageDescription" = "Allow access to album for customer support to use your photos.";

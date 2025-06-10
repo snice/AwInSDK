@@ -1,0 +1,67 @@
+"通知" = "Thông Báo";
+"为了更好的说明服务内容并优化您的游戏体验，请查看以下的的条款，点击同意则表示接受条款内容并继续游戏。" = "Để giải thích rõ hơn về nội dung dịch vụ và tối ưu hóa trải nghiệm chơi game của bạn, vui lòng xem lại các điều khoản sau, nhấp vào Đồng ý để chấp nhận nội dung và tiếp tục chơi.";
+"隐私政策" = "Privacy Policy";
+"用户条款" = "Terms of Use";
+"EU GDPR" = "EU GDPR";
+"同意" = "Đồng Ý";
+"登录" = "Đăng Nhập";
+"Apple" = "Apple";
+"Google" = "Google";
+"FaceBook" = "FaceBook";
+"游客" = "Khách";
+"邮箱" = "Email";
+"Game Center" = "Game Center";
+"VKontakte" = "VKontakte";
+"请输入您的邮箱" = "Vui lòng nhập Email";
+"下一步" = "Tiếp";
+"邮箱验证码" = "Mã Xác Nhận";
+"重新发送" = "Gửi lại";
+"已发送至" = "Đã gửi đến ";
+"当前无可用登录方式" = "Hiện không có hình thức nào";
+"账号" = "Số tài khoản";
+"绑定账号" = "Tài khoản liên kết";
+"切换账号" = "Đổi tài khoản";
+"解绑" = "Hủy liên kết";
+"去绑定" = "Liên kết";
+"当前无可用绑定方式。" = "Hiện tại không có cách ràng buộc sẵn sàng";
+"此账号已被绑定，请返回使用其他账号。" = "Tài khoản này đã bị khóa, vui lòng quay lại sử dụng tài khoản khác.";
+"您将无法使用该社交账号登录此游戏账号,确定取消绑定吗?解绑前会进行验证，以确保账号安全。" = "Bạn sẽ không thể sử dụng tài khoản xã hội đó để đăng nhập vào tài khoản trò chơi này, bạn có chắc chắn rằng bạn đã bỏ liên kết không? Trước khi cởi trói sẽ tiến hành nghiệm chứng, để bảo đảm tài khoản an toàn.";
+"取消" = "Hủy bỏ";
+"是否确定切换账号?将退出当前账号，并返回登录界面。" = "Có chắc là đổi tài khoản không?Bạn sẽ thoát khỏi tài khoản hiện tại và quay lại giao diện đăng nhập.";
+"确定" = "Xác định";
+//"将登录您最后选择的账号。" = "将登录您最后选择的账号。";
+"删除账号" = "Xóa tài khoản";
+"账号删除后无法恢复，请谨慎操作。" = "Sau khi xóa tài khoản không thể khôi phục, xin hãy cẩn thận thao tác.";
+"如您删除本账号，则您在当前游戏中的所有充值记录、游戏进度和个人资料等信息将被清空且无法找回。" = "Nếu bạn xóa tài khoản này, tất cả thông tin như lịch sử nạp tiền, tiến độ trò chơi và dữ liệu cá nhân của bạn trong trò chơi hiện tại sẽ bị xóa và không thể lấy lại được.";
+"您确定要删除账号吗？" = "Bạn có chắc chắn muốn xóa tài khoản?";
+"确定删除" = "Xoá";
+
+"退出游戏" = "Thoát khỏi trò chơi";
+"确定要退出游戏吗？" = "Bạn chắc chắn muốn thoát khỏi trò chơi?";
+"退出" = "Thoát";
+"提示" = "Mẹo";
+"当前网络不佳，请切换网络后重试。" = "Mạng hiện tại không tốt, hãy thử lại sau khi chuyển mạng.";
+"重试" = "Thử lại";
+"当前网络不佳，请检查网络后重试。" = "Mạng hiện tại không tốt, hãy thử lại sau khi kiểm tra mạng.";
+"保存/加载进度" = "Lưu/tải tiến trình";
+"登录账号可保存或加载您的游戏进度" = "Đăng nhập để lưu hoặc tải tiến trình trò chơi của bạn.";
+"请到设置-Game Center打开开关并登录以便继续使用" = "Vào Settings – Game Center bật công tắc và đăng nhập";
+"您的账号或设备存在异常，请联系客服。" = "Tài khoản hoặc thiết bị của bạn xuất hiện bất thường. Vui lòng liên hệ với dịch vụ khách hàng.";
+"Facebook客服" = "Facebook";
+"AIHELP客服" = "AIHELP";
+"解绑账号" = "Mở tài khoản";
+
+
+
+
+
+"交易进行中..." = "Xử lý";
+"你当前已有订阅项目" = "Bạn hiện đang có dự án đăng ký.";
+"绑定邮箱" = "Hộp thư liên kết";
+"添加邮箱" = "Thêm hộp thư";
+"请输入正确的邮箱" = "Vui lòng nhập đúng hộp thư";
+"发送验证码成功" = "Gửi CAPTCHA thành công";
+"网络错误" = "Lỗi mạng";
+
+
+"是否确定切换账号?将登录您最后选择的账号。" = "Có chắc là đổi tài khoản không?Tài khoản bạn chọn cuối cùng sẽ được đăng nhập.";

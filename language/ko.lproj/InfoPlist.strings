@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  AWSDKDemo
+
+  Created by admin on 2022/1/10.
+  
+*/
+"NSUserTrackingUsageDescription" = "광고 및 정보의 푸시를 추적할 수 있도록 광고 ID 액세스 권한을 적용할 수 있는지 여부";
+"NSPhotoLibraryUsageDescription" = "고객 센터에서 사진을 사용할 수 있도록 앨범에 접근할 수 있습니다.";
+

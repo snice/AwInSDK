@@ -1,0 +1,67 @@
+"通知" = "Atención";
+"为了更好的说明服务内容并优化您的游戏体验，请查看以下的的条款，点击同意则表示接受条款内容并继续游戏。" = "Para explicar mejor el contenido del servicio y optimizar su experiencia de juego, revise los siguientes términos, y haga clic en aceptar para aceptar el contenido de los términos y continuar el juego.";
+"隐私政策" = "Privacy Policy";
+"用户条款" = "Terms of Use";
+"EU GDPR" = "EU GDPR";
+"同意" = "De acuerdo";
+"登录" = "Iniciar sesión";
+"Apple" = "Apple";
+"Google" = "Google";
+"FaceBook" = "FaceBook";
+"游客" = "Guest";
+"邮箱" = "Email";
+"Game Center" = "Game Center";
+"VKontakte" = "VKontakte";
+"请输入您的邮箱" = "Dirección de correo electrónico";
+"下一步" = "Siguiente";
+"邮箱验证码" = "Código";
+"重新发送" = "Correo";
+"已发送至" = "Enviado a";
+"当前无可用登录方式" = "No hay método de inicio de sesión";
+"账号" = "Cuenta";
+"绑定账号" = "Cuenta vinculada";
+"切换账号" = "Cuenta de conmutación";
+"解绑" = "Desbloquear";
+"去绑定" = "Vinculación";
+"当前无可用绑定方式。" = "Método sin consolidar";
+"此账号已被绑定，请返回使用其他账号。" = "Esta cuenta está vinculada. Por favor, regrese y use otra cuenta.";
+"解绑账号" = "Desbloquear cuenta";
+"您将无法使用该社交账号登录此游戏账号,确定取消绑定吗?解绑前会进行验证，以确保账号安全。" = "No podrá iniciar sesión en esta cuenta de juego con esta cuenta social. ¿Estás seguro de que quieres desatar? Antes de desbloquear, se realizará una verificación para garantizar la seguridad de la cuenta.";
+"取消" = "Cancelación";
+"是否确定切换账号?将退出当前账号，并返回登录界面。" = "Si se retira, se reiniciará a partir del juego. Puede iniciar sesión de nuevo para continuar reproduciendo el progreso actual.";
+
+"确定" = "Sí";
+//"将登录您最后选择的账号。" = " Se conectará a la cuenta elegida por última vez.";
+"删除账号" = "Eliminar cuenta";
+"账号删除后无法恢复，请谨慎操作。" = "Haga clic en \"Eliminar\" y su solicitud se enviará para su procesamiento.";
+"如您删除本账号，则您在当前游戏中的所有充值记录、游戏进度和个人资料等信息将被清空且无法找回。" = "Tenga en cuenta que esto eliminará todas sus compras, avances y datos personales.";
+"您确定要删除账号吗?" = "¿Estás seguro de que quieres borrar tu cuenta?";
+"确定删除" = "Eliminar";
+"您确定要删除账号吗？" = "¿Está seguro de que quiere solicitar la eliminación de la cuenta?";
+"退出游戏" = "Exportaciones";
+"确定要退出游戏吗？" = "¿Estás seguro de que quieres salir del juego?";
+"退出" = "Exportaciones";
+"提示" = "Error";
+"当前网络不佳，请切换网络后重试。" = "Compruebe la conexión a la red y vuelva a intentarlo.";
+"重试" = "Reinterpretar";
+"当前网络不佳，请检查网络后重试。" = "Compruebe su conexión a la red y vuelva a intentarlo.";
+"保存/加载进度" = "Progreso de guardar / cargar";
+"登录账号可保存或加载您的游戏进度" = "Inicie sesión para guardar o cargar el progreso de su juego.";
+"请到设置-Game Center打开开关并登录以便继续使用" = "Ir a \"configuración\" - el \"centro de juegos\" enciende el interruptor e inicia sesión";
+"您的账号或设备存在异常，请联系客服。" = "Su cuenta o dispositivo tiene una anomalía. Póngase en contacto con el servicio al cliente.";
+"Facebook客服" = "Facebook";
+"AIHELP客服" = "AIHELP";
+
+
+
+
+
+"交易进行中..." = "Tratamiento";
+"你当前已有订阅项目" = "La suscripción ya existe";
+"绑定邮箱" = "Correo electrónico vinculado";
+"添加邮箱" = "Añadir correo electrónico";
+"请输入正确的邮箱" = "El correo electrónico no es correcto";
+"发送验证码成功" = "El Código fue enviado con éxito";
+"网络错误" = "Error de red";
+
+"是否确定切换账号?将登录您最后选择的账号。" = "¿Estás seguro de que quieres cambiar de cuenta? Se conectará a la cuenta elegida por última vez.";

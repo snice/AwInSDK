@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AWSDKDemo
+
+  Created by admin on 2022/1/10.
+  
+*/
+"NSUserTrackingUsageDescription" = "Cho phép ứng dụng truy cập vào nhận dạng quảng cáo để dễ dàng theo dõi quảng cáo và đẩy thông tin.";
+"NSPhotoLibraryUsageDescription" = "Cho phép truy cập vào album để dịch vụ khách hàng có thể sử dụng ảnh của bạn.";

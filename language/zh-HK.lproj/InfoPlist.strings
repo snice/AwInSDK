@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AWSDKDemo
+
+  Created by admin on 2022/1/10.
+  
+*/
+"NSUserTrackingUsageDescription" = "是否允許應用訪問廣告標識許可權，以便於追跡廣告和資訊的推送";
+"NSPhotoLibraryUsageDescription" = "打開相冊權限，以便於客服支援功能使用相冊照片。";

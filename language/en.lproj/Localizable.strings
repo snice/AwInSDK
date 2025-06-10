@@ -1,0 +1,68 @@
+"通知" = "Notice";
+"为了更好的说明服务内容并优化您的游戏体验，请查看以下的的条款，点击同意则表示接受条款内容并继续游戏。" = "In order to better explain the service content and optimize your gaming experience, please refer to the following terms and Click Agree to accept the terms and proceed to the game.";
+"隐私政策" = "Privacy Policy";
+"用户条款" = "Terms of Use";
+"EU GDPR" = "EU GDPR";
+"同意" = "Agree";
+"登录" = "Login";
+"Apple" = "Apple";
+"Google" = "Google";
+"FaceBook" = "FaceBook";
+"游客" = "Guest";
+"邮箱" = "Email";
+"Game Center" = "Game Center";
+"VKontakte" = "VKontakte";
+"请输入您的邮箱" = "Email Address";
+"下一步" = "Next";
+"邮箱验证码" = "Enter Code";
+"重新发送" = "Resend";
+"已发送至" = "send to";
+"当前无可用登录方式" = "No login methods";
+"账号" = "Account";
+"绑定账号" = "Bind Account";
+"切换账号" = "Switch Account";
+"解绑" = "Unbind";
+"去绑定" = "Bind";
+"当前无可用绑定方式。" = "No binding methods";
+"此账号已被绑定，请返回使用其他账号。" = "This account has been bound. Please go back and use another account.";
+"解绑账号" = "Unbind Account";
+"您将无法使用该社交账号登录此游戏账号,确定取消绑定吗?解绑前会进行验证，以确保账号安全。" = "You will not be able to login to this game account using this social account. Are you sure to unbind it?Before unbinding, verification will be conducted to ensure account security.";
+"取消" = "Cancel";
+"是否确定切换账号?将退出当前账号，并返回登录界面。" = "If you logout you'll restart from the beginning of the game.You can login again to continue playing your current progress.";
+"确定" = "Yes";
+//"将登录您最后选择的账号。" = "将登录您最后选择的账号。";
+"删除账号" = "Delete Account";
+"账号删除后无法恢复，请谨慎操作。" = "By tapping Delete your request will be submitted to be processed.";
+"如您删除本账号，则您在当前游戏中的所有充值记录、游戏进度和个人资料等信息将被清空且无法找回。" = "Be aware that this will DELETE ALL of your PURCHASES, PROGRESS, and PROFILES.";
+"您确定要删除账号吗？" = "Are you sure you want to delete your account?";
+"确定删除" = "Delete";
+
+"退出游戏" = "Exit";
+"确定要退出游戏吗？" = "Are you sure to exit the game?";
+"退出" = "Exit";
+"提示" = "Error";
+"当前网络不佳，请切换网络后重试。" = "Please check the network connection and retry.";
+"重试" = "Retry";
+"当前网络不佳，请检查网络后重试。" = "Please check your network connection and retry.";
+"保存/加载进度" = "Save/Load Progress";
+"登录账号可保存或加载您的游戏进度" = "Login to save or load your game progress.";
+"请到设置-Game Center打开开关并登录以便继续使用" = "Go to Settings - Game Center to turn on the switch and login.";
+"您的账号或设备存在异常，请联系客服。" = "There is an abnormality with your account or device. Please contact customer service.";
+"Facebook客服" = "Facebook";
+"AIHELP客服" = "AIHELP";
+
+
+
+
+
+
+"交易进行中..." = "Processing";
+"你当前已有订阅项目" = "Subscription already exists";
+"绑定邮箱" = "Bind Email";
+"添加邮箱" = "Add Email";
+"请输入正确的邮箱" = "Incorrect Email";
+"发送验证码成功" = "Code sent success";
+"网络错误" = "Network Error";
+
+
+"是否确定切换账号?将登录您最后选择的账号。" = "Are you sure you want to switch accounts?You will be logged into the account you last selected.";
