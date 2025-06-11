@@ -75,5 +75,27 @@ Pod::Spec.new do |s|
     "VALID_ARCHS" => "arm64",
     "SWIFT_VERSION" => "6.0",
   }
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency "FBSDKCoreKit", "17.4.0"
+  s.dependency "FBSDKLoginKit", "17.4.0"
+  s.dependency "FBSDKShareKit", "17.4.0"
+  s.dependency "GoogleSignIn", "7.0.0"
+  s.dependency "Firebase/Analytics", "10.29.0"
+  s.dependency "Firebase/Auth", "10.29.0"
+  s.dependency "Firebase/Database", "10.29.0"
+  s.dependency "Firebase/Messaging", "10.29.0"
+  s.dependency "AIHelpSDK", "~> 5.1.1"
+  s.dependency "VK-ios-sdk", "1.6.4"
+  s.dependency "Google-Mobile-Ads-SDK", "11.12.0"
+  s.dependency "GoogleMobileAdsMediationMintegral", "7.7.3.0"
+  s.dependency "GoogleMobileAdsMediationPangle", "6.3.0.9.0"
+  s.dependency "GoogleMobileAdsMediationUnity", "4.12.3.1"
+  s.dependency "GoogleMobileAdsMediationFacebook", "6.16.0.0"
+  s.dependency "GoogleMobileAdsMediationAppLovin", "12.5.0.0"
+  s.dependency "GoogleUserMessagingPlatform", "2.7.0"
+  s.dependency "GoogleMobileAdsMediationInMobi", "10.8.0.0"
+  s.dependency "GoogleMobileAdsMediationVungle", "7.4.3.0"
+  s.dependency "Adjust", "5.0.1"
+  s.dependency "AppsFlyerFramework", "6.14.3"
+  s.dependency "AppsFlyer-AdRevenue", "6.14.3"
+  s.dependency "ThinkingSDK", "3.0.5"
 end
