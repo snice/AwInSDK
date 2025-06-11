@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
     "language/*.lproj",
     "sharePhoto.png",
   ]
-  s.public_header_files = "VKSdkFramework.h"
+  s.public_header_files = "AwInSDK.framework/Headers/**/*.h"
   s.frameworks = [
     "SystemConfiguration",
     "Security",
