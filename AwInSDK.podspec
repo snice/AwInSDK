@@ -26,13 +26,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "14.0"
 
   s.vendored_frameworks = "AwInSDK.framework"
-  s.resources = [
-    "AppLovin-Settings.plist",
-    "AWSDK.bundle",
-    "AWSDKConfig.plist",
-    "language/*.lproj",
-    "sharePhoto.png",
-  ]
   s.public_header_files = "AwInSDK.framework/Headers/**/*.h"
   s.frameworks = [
     "SystemConfiguration",
