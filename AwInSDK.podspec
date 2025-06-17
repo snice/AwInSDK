@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   s.dependency "Firebase/Messaging", "10.29.0"
   s.dependency "AIHelpSDK", "~> 5.1.1"
   s.dependency "VK-ios-sdk", "1.6.4"
-  s.dependency "Google-Mobile-Ads-SDK", "11.12.0"
+  s.dependency "Google-Mobile-Ads-SDK", "11.5.0"
   s.dependency "GoogleMobileAdsMediationMintegral", "7.7.3.0"
   s.dependency "GoogleMobileAdsMediationPangle", "6.3.0.9.0"
   s.dependency "GoogleMobileAdsMediationUnity", "4.12.3.1"
