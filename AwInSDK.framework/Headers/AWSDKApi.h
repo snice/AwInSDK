@@ -167,7 +167,7 @@ typedef NS_ENUM(NSInteger, AdType) {
 +(void)user_Invite:(NSString *)extraInfo;
 
 #pragma mark - AF互导
-+(void)crossPromotionWithAppId:(NSString *)app_id andExtraInfo:(NSString *)extraInfo onSuccess:(void(^)(NSString * json))success onFailed:(void (^)(NSString * msg))failure;
++(void)crossPromotionWithAppId:(NSString *)app_id andCross_cid:(NSString *)cross_cid andExtraInfo:(NSString *)extraInfo onSuccess:(void(^)(NSString * json))success onFailed:(void (^)(NSString * msg))failure;
 
 
 
@@ -348,7 +348,7 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandl
 #pragma mark - AIHelp更新用户信息
 +(void)updateAiHelperUserInfo:(AiHelpUserdata *)data;
 
-
++(NSString *)getIdFA;
 
 
 @end
